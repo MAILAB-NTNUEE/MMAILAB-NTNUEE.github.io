@@ -84,7 +84,11 @@ current_students:
       program: "1st Year"
       other: "EE"
 
-    - name: "劉宇宸"
+    - name: "劉祐銓"
+      program: "1st Year"
+      other: "EE"
+      
+    - name: "蔡依嬑"
       program: "1st Year"
       other: "EE"
 
