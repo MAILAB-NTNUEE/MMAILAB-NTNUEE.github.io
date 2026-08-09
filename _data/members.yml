@@ -72,6 +72,10 @@ current_students:
       program: "2nd Year"
       other: "AI"
 
+    - name: "張瑩溱"
+      program: "1st Year"
+      other: "EE"
+
     - name: "黃柏允"
       program: "1st Year"
       other: "EE"
